@@ -1,4 +1,4 @@
-## Install packages in your goinfre
+## Guide to  install packages in your goinfre
 
 We may receive an error when we try to install a package, which indicates that we do not have permission to write to the directories that npm uses to store packages and commands.
  We can fix this problem by Changing the npm's default directory to another. We can configure npm to use a different directory; this directory will be hidden in our goinfre.
